@@ -1,0 +1,1 @@
+我是vue里的slider组件
